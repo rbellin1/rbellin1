@@ -1,8 +1,3 @@
-When I was a kid, I had no idea what I wanted to be when I grew up. I loved art, but also science and math. My career and schooling has previously focused primarily on analytical or creative aspects. 
-
-When I discovered the field of software development, I was ecstatic to discover a field in which I could combine all of my abilities. Learning to code has been one of the most challenging things I have ever done, but also one of the most rewarding. 
-
-I am excited to grow my career in this new and exciting field and continue to learn all the amazing ways in which software can be used to make an impact on our world.
 
 <!--
 **rbellin1/rbellin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
